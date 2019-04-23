@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvatarService.API", "AvatarService.API\AvatarService.API.csproj", "{E2608E4A-99E7-407A-904F-C4F370BFBE53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvatarService.API.IntegrationTests", "AvatarService.API.IntegrationTests\AvatarService.API.IntegrationTests.csproj", "{C1F53C2D-D803-438D-9A45-420B02B5B3A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2608E4A-99E7-407A-904F-C4F370BFBE53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2608E4A-99E7-407A-904F-C4F370BFBE53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2608E4A-99E7-407A-904F-C4F370BFBE53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2608E4A-99E7-407A-904F-C4F370BFBE53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1F53C2D-D803-438D-9A45-420B02B5B3A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1F53C2D-D803-438D-9A45-420B02B5B3A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1F53C2D-D803-438D-9A45-420B02B5B3A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1F53C2D-D803-438D-9A45-420B02B5B3A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A072120D-FDF3-4C5A-B9AC-9E92FDB35ABE}
+	EndGlobalSection
+EndGlobal
